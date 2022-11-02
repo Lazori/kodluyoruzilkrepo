@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 Bu repo kodluyoruz Front-End eğirimide oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındıroyır.
-
+![Image](https://picsum.photos/200/300)
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ## Usage
