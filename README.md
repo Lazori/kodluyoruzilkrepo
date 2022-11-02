@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Image](file:///C:/Users/KADIR/Desktop/repo.PNG)
+![Image](https://raw.githubusercontent.com/Lazori/kodluyoruzilkrepo/main/repo.PNG?token=GHSAT0AAAAAAB2WSZXNOXJS2FXWUBRWKU7OY3C4NLA)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
