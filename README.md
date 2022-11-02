@@ -1,6 +1,8 @@
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![Image](https://picsum.photos/200/300)
+
+![Image](file:///C:/Users/KADIR/Desktop/repo.PNG)
+
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ## Usage
